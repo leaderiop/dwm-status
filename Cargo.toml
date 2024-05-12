@@ -1,0 +1,10 @@
+[package]
+authors = ["Mohammad Almechkor <medalmechkor@gmail.com>"]
+name = "dwm-status"
+version = "0.1.0"
+edition = "2021"
+
+
+[dependencies]
+tracing = "*"
+chrono = "*"
